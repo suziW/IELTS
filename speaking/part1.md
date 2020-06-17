@@ -8,3 +8,6 @@
 
 ### hobbies
 @import "hobbies.md"
+
+### familyAndFriends
+@import "familyAndFriends.md"

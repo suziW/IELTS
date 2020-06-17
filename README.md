@@ -4,28 +4,9 @@ toc:
     depth_to: 3
     ordered: false
 ---  
+[toc]
   
-- [IELTS](#ielts )
-- [OBJECTIVE](#objective )
-- [speaking](#speaking )
-  - [criteria](#criteria )
-  - [part1](#part1 )
-    - [考察点](#考察点 )
-    - [studyOrWork](#studyorwork )
-      - [Q: Are you work or are you a student?](#q-are-you-work-or-are-you-a-student )
-      - [Q: What is your tipical working day like?](#q-what-is-your-tipical-working-day-like )
-      - [Q:why did you choose that kind of work?](#qwhy-did-you-choose-that-kind-of-work )
-      - [Q:What was the most difficult thing about your work/study?](#qwhat-was-the-most-difficult-thing-about-your-workstudy )
-      - [Q:What's your future study/work plan?](#qwhats-your-future-studywork-plan )
-    - [hobbies](#hobbies )
-      - [topics](#topics )
-      - [T: Answering Yes/No question](#t-answering-yesno-question )
-      - [T: Likes and Dislikes](#t-likes-and-dislikes )
-      - [T: frequency](#t-frequency )
-      - [T: describe feelings](#t-describe-feelings )
-  - [part2](#part2 )
-  - [part3](#part3 )
-  
+--- 
 #  IELTS
   
 International English Language Test System
@@ -78,7 +59,7 @@ International English Language Test System
 - I'am in charge of
 - ==My responsibilities involve #TODO==
   
-####  Q:why did you choose that kind of work?
+####  Q: why did you choose that kind of work?
   
 - ==I have always loved computer since I am a child. What's more/Besides It's well-paid. #TODO(loved换个词)==
 - It has a promising future.
@@ -86,7 +67,7 @@ International English Language Test System
 - It's well-paid.
 - There are good benefits and job security.
   
-####  Q:What was the most difficult thing about your work/study?
+####  Q: What was the most difficult thing about your work/study?
   
 - ==I found it really difficult to (quire precise and 精确及及时的知识) because there is a network restriction in china and English documents are hard to read.#TODO. But it's getting much better.==
 - I'am working on it.
@@ -94,7 +75,7 @@ International English Language Test System
     - tring to ...
     - dealing with ...
   
-####  Q:What's your future study/work plan?
+####  Q: What's your future study/work plan?
   
 - I'am planning to ...
 - I hope that in five years I will be doing ...
@@ -142,8 +123,8 @@ International English Language Test System
   
 - 24/7
 - all-time favorite
-- once in a while (sometimes)
-- every now and then
+- once in a while (sometimes, 偶尔)
+- every now and then (sometimes, 偶尔)
 - rarely
 - hardly ever
 - once in a blue moon#idioms
@@ -151,23 +132,63 @@ International English Language Test System
   
 ####  T: describe feelings
   
-- positive:
-    - therapeutic
+- positive
+    - therapeutic 治愈的
     - relaxing
-    - exhilarating
+    - exhilarating  令人激动的
     - touching/moving
-    - thought-provoking
-    - breath-taking
-    - heart-warming
+    - thought-provoking 发人深思的
+    - breath-taking 风景非常美丽
+    - heart-warming 感人的
 - negtive
     - tedious
     - dull
-    - dreadful
-    - strenuous
+    - dreadful 很讨厌的
+    - strenuous 很耗体力的
     - embarrasing
     - time-consuming
 - I find it ... to do sth
 - It feels ... to do sth
+  
+####  E: cooking
+  
+![](../pictures/cooking.png )
+  
+####  E: music
+  
+![](../pictures/music.png )
+- tone deaf 无音不全
+- line dance 广场舞
+  
+####  E: art/photography
+  
+![](../pictures/art.png )
+- shutterbug 摄影爱好者
+- photogenic 上镜
+- scenery 风景
+  
+####  E: reading
+  
+![](../pictures/reading.png )
+- non-fiction 非虚构类的
+- a page turner 好看的书
+- best seller 畅销书
+  
+####  Q: Do you prefer to listen to live music or recorded music?
+  
+####  Q: What kind of musical instrument is popular in your country?
+  
+####  Q: When do people dance in your country?
+  
+####  Q: Do you prefer to take photos of others or to be taken photos of?
+  
+####  Q: Do you think you read enough?
+  
+  
+  
+###  familyAndFriends
+  
+  
   
   
   
