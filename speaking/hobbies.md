@@ -27,6 +27,7 @@
 - an avid(热衷的) reader/traveler
 - a (history) buff
 - It's not my kind of thing. It's not my cup of tea#idioms.
+- I don't fell like it.
 
 #### T: frequency
 - 24/7
