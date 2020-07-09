@@ -1,7 +1,9 @@
-### 文章
+### recite2
+
+#### 文章
 ![2](pictures/recite2.png)
 
-### 单词/短语
+#### 单词/短语
 - increasingly widespread problem
 - modern lifestyles
 - spoil &nbsp; 宠坏/毁坏 &nbsp;&nbsp;（spoiled kids)
@@ -12,6 +14,6 @@
 - combat the situation
 - as a whole &nbsp; 作为一个整体
 
-### 句子
+#### 句子
 - the solution to the problem lies with ...
 - not ... but ...

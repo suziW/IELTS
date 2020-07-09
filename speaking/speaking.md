@@ -10,4 +10,5 @@
 @import "part3.md"
 
 ## recite
+@import "recite1.md"
 @import "recite2.md"
