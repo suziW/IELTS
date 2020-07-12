@@ -11,4 +11,7 @@ tips:
 2. 雅思考试的7分标准中，要求必须使用4-6个俗语(idioms)。对于非英语非母语的考生来说，
 3. 造假是ok的
 
-@import "speaking/criteria.md"
+
+### 短语
+to be rechoned with
+capitalize on

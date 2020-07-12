@@ -1,7 +1,5 @@
-### recite1
-
 #### 文章
-![1](pictures/recite1.png)
+![1](../pictures/recite1.png)
 
 #### 单词/短语
 - contemporary

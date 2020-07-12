@@ -1,5 +1,3 @@
-### recite2
-
 #### 文章
 ![2](pictures/recite2.png)
 
