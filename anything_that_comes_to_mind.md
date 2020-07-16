@@ -15,3 +15,17 @@ tips:
 ### 短语
 to be rechoned with
 capitalize on
+improve mental well-being 精神健康
+suffered from depression
+promotes weight loss
+burn fat
+builds muscle
+Cuts heart disease and cancer risk
+broadens your social circle
+
+### 句子
+Cycling combines physical exercise with being outdoors and exploring new views. You can ride solo – giving you time to process worries or concerns, or you can ride with a group which broadens your social circle
+
+people with a higher percentage of muscle burn more calories even when sedentary.
+
+there’s nothing like a long ride to bring a sense of accomplishment
