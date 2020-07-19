@@ -83,3 +83,7 @@
 #### Q: When do people dance in your country?
 #### Q: Do you prefer to take photos of others or to be taken photos of?
 #### Q: Do you think you read enough?
+
+
+#### 题目
+![](../pictures/part23_hobby.png)

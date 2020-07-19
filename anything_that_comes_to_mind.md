@@ -29,3 +29,19 @@ Cycling combines physical exercise with being outdoors and exploring new views. 
 people with a higher percentage of muscle burn more calories even when sedentary.
 
 there’s nothing like a long ride to bring a sense of accomplishment
+
+#### pollution
+residential community
+subsequently
+polar bear 
+Arctic
+livestock
+
+Shan
+tsunami
+Shan
+catastrophe
+
+#### 
+- I have kept my self fit for many years up to now.
+
