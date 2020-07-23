@@ -17,6 +17,7 @@
     - [recite3 (environmental issues)](#recite3-environmental-issueswritingrecite3md )
     - [recite4 (health)](#recite4-healthwritingrecite4md )
     - [recite5 (media violence)](#recite5-media-violencewritingrecite5md )
+    - [recite6 (sedentary lifestyle)](#recite6-sedentary-lifestylewritingrecite6md )
   
 --- 
 #  IELTS
@@ -87,6 +88,8 @@ International English Language Test System
 ###  [recite4 (health)](writing/recite4.md )
   
 ###  [recite5 (media violence)](writing/recite5.md )
+  
+###  [recite6 (sedentary lifestyle)](writing/recite6.md )
   
   
   

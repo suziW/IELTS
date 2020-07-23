@@ -7,3 +7,4 @@
 ### [recite3 (environmental issues)](writing/recite3.md)
 ### [recite4 (health)](writing/recite4.md)
 ### [recite5 (media violence)](writing/recite5.md)
+### [recite6 (sedentary lifestyle)](writing/recite6.md)
