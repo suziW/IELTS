@@ -1,0 +1,12 @@
+#### question with problem
+- Do you think an area can benefit from having an interesting historic place locally?
+- How were you taught history when you were at school? 
+- Are there any negative effects of a person spending too much time on their hobby?
+- Why the time allocation for work and leisure in china not balanced?
+- pros and cons
+- water sport
+- What effect has the Internet had on the way people generally communicate with each other?
+- How reliable do you think information from the Internet is?
+- In terms of personality, are people more influenced by their family or by their friends? 
+- ***How important is it for people to do some regular physical exercise?
+- Do you think that people today have more choices to make today than in the past?
