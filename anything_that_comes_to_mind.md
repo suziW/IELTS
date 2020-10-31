@@ -13,9 +13,9 @@ tips:
 
 
 ### 短语
-to be rechoned with
+to be reckoned with
 capitalize on
-improve mental well-being 精神健康
+improve/enhance mental well-being 精神健康
 suffered from depression
 promotes weight loss
 burn fat
@@ -45,3 +45,38 @@ catastrophe
 #### 
 - I have kept my self fit for many years up to now.
 
+###
+Caricature artist
+persecute 
+political satires of polititions like putin xijinpin and trump
+satirize
+
+###
+diverse genres of
+blow off steam after a stressful day
+weight lifting
+High-intensity interval training
+increase my endurance strengthen my body
+take my mind off thins
+couch potato
+
+chair/wrting dest/cabinet/double bed
+cozy home
+big and confy
+
+tops: shirt, sweatshirt, button-up shirt
+jeans, sweat pants
+cool colour, white
+I like black, It goes with everything, white, red, yellow.
+skinny jeans
+I'll just go casual
+
+It used to be all fields
+
+I am always late for everything.
+
+put phone aside on mute
+fishbone
+slippery
+
+flat

@@ -10,3 +10,8 @@
 - In terms of personality, are people more influenced by their family or by their friends? 
 - ***How important is it for people to do some regular physical exercise?
 - Do you think that people today have more choices to make today than in the past?
+- requierd
+- what are the important factors in making a company successful
+    - be a jack of all trades(deals with bank accounts, taxes, staff management)
+    - good at communication
+    - calm，strong
